@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+work/
+output/
+未完成/
+workflow/
+*.jar
